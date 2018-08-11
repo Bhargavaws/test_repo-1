@@ -26,10 +26,10 @@
   <properties>
       <repository.server.root>http://18.222.132.83:8081/repository</repository.server.root>
         <releases.distribution.url>
-            ${repository.server.root}/allergan-releases/
+            ${repository.server.root}/devops-releases/
         </releases.distribution.url>
         <snapshots.distribution.url>
-            ${repository.server.root}/allergan-snapshots/
+            ${repository.server.root}/devops-snapshots/
         </snapshots.distribution.url>
 
   </properties>
